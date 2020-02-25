@@ -1,5 +1,7 @@
 This is a mirror of http://www.vim.org/scripts/script.php?script_id=31
 
+- Removed insert mode mapping to prevent leader key delay
+
 A few of quick commands to swtich between source files and header files quickly.
 
 :A switches to the header file corresponding to the current file being edited (or vise versa)
